@@ -1,0 +1,6 @@
+selenium
+ccxt
+requests
+telebot
+undetected_chromedriver
+tweet-capture
